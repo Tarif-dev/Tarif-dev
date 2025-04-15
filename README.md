@@ -88,7 +88,7 @@ Feel free to reach out or connect with me:
 
 - 📧 Email: [tarifhussain212@gmail.com](mailto:tarifhussain212@gmail.com)
 - 🐦 Twitter: [@tarif2108](https://twitter.com/tarif2108)
-- 💼 LinkedIn: [Your LinkedIn Profile](#) <!-- Replace '#' with your actual LinkedIn URL -->
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tarif-hussain-908887293/) <!-- Replace '#' with your actual LinkedIn URL -->
 
 ---
 
